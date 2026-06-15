@@ -165,7 +165,7 @@ src/main/java/com/example/demo
 ├── exception
 │   └── GlobalExceptionHandler.java
 │
-└── DemoApplication.java
+└── UserApiApplication.java
 ```
 
 ## Author
